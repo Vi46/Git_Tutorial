@@ -1,0 +1,33 @@
+Hello Everyone...!
+
+> Git is version control system.
+> Git helps you keep track of code changes
+> Git used to collaborate on code
+
+Need to create a github account
+install git in local system
+
+//CMD
+open terminal view for success message
+
+git config --global user.name ""
+git config --global user.email "xyz@gmail.com"
+
+Create new folder in desktop
+Create a new repository in github
+
+//git clone 
+Open a folder in VS code
+new terminal 
+git clone 
+
+github -> git Copy folder -> WorkingFolder
+
+to add workingFolder(textFile2(Untracked - track)) --> Staging area
+>git add textFile2
+after the above command execution File will be moved to workingFolder to Staging area
+
+Staging area - git Copy folder
+> git commit -m "Message"
+
+git Copy folder --> github
