@@ -31,3 +31,5 @@ Staging area - git Copy folder
 > git commit -m "Message"
 
 git Copy folder --> github
+
+insert -> add -> commit -> push
