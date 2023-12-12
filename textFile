@@ -1,0 +1,21 @@
+Hello Everyone...!
+> Git is version control system.
+> Git helps you keep track of code changes
+> Git used to collaborate on code
+
+Need to create a github account
+install git in local system
+
+//CMD
+open terminal view for success message
+
+git config --global user.name ""
+git config --global user.email "xyz@gmail.com"
+
+Create new folder in desktop
+Create a new repository in github
+
+//git clone 
+Open a folder in VS code
+new terminal 
+git clone 
