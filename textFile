@@ -1,4 +1,5 @@
 Hello Everyone...!
+
 > Git is version control system.
 > Git helps you keep track of code changes
 > Git used to collaborate on code
@@ -20,4 +21,13 @@ Open a folder in VS code
 new terminal 
 git clone 
 
-github -> copy git folder -> localFile
+github -> git Copy folder -> WorkingFolder
+
+to add workingFolder(textFile2(Untracked - track)) --> Staging area
+>git add textFile2
+after the above command execution File will be moved to workingFolder to Staging area
+
+Staging area - git Copy folder
+> git commit -m "Message"
+
+git Copy folder --> github
